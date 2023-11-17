@@ -35,5 +35,5 @@ Estr proyecto es una api de notas, que permitira a los usuarios, registrarse, in
 6. Llenar las variables de entorno
 7. Levantar el modo de desarrollo utilizando el comando: 
 ```
-    npm run dev
+    npm start
 ```
